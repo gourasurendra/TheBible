@@ -111,7 +111,7 @@ Make sure you have installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/gourasurendra/TheBible.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -162,7 +162,7 @@ https://faithsteps.vercel.app/
 
 Android application:
 
-https://median.co/share/yejpqoj#apk
+https://median.co/share/dyknpom#apk
 
 ---
 
