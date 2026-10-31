@@ -8,7 +8,7 @@ Read the Bible online or download the Android application to enjoy Scripture any
 https://faithsteps.vercel.app/
 
 ### 📱 Download Android App
-[Download BibleVerse Reader for Android](https://median.co/share/yejpqoj#apk)
+[Download BibleVerse Reader for Android](https://median.co/share/dyknpom#apk)
 
 ---
 
